@@ -1,0 +1,17 @@
+.box {
+  text-align: center;
+  margin-top: 250px;
+  margin-left: -100px;
+}
+label {
+  font-weight: 600;
+  font-size: 60px;
+}
+.box input {
+  width: 500px;
+  height: 90px;
+}
+.box button {
+  width: 50px;
+  height: 40px;
+}
